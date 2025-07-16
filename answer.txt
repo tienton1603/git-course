@@ -1,0 +1,8 @@
+a> Cau lenh cua cai dat email và name:
+git config --global user.name "Ngoc Tien"
+git config --global user.email "tienton1603@gmail.com"
+b> Setup lai name
+git config --global user.name ""PW - Ngoc Tien"
+c> Commit
+git commit -m "Message"
+d> Da tao repo git-course va commit code
