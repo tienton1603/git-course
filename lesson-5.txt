@@ -1,0 +1,14 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì?
+- Thẻ HTML
+2. Hãy mô tả cấu trúc html của 1 bảng (table)
+<table>
+    <thead>
+        <tr>
+            <th>
+                <td>
+                </td>
+            </th>
+        </tr>
+    </thead>
+</table>
+3. Push bài tập lên GitHub.
